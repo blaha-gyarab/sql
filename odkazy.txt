@@ -1,0 +1,8 @@
+https://www.javawebtutor.com/articles/servlets/servlet_passing_parameter.php
+
+
+https://www.programmergate.com/pass-data-servlet-jsp/
+https://stackoverflow.com/questions/18889681/mapping-servlet-in-web-xml
+https://stackoverflow.com/questions/30211932/how-to-redirect-to-a-jsp-page-from-a-servlet
+https://stackoverflow.com/questions/9570963/passing-int-as-parameter-from-jsp-to-servlet
+https://www.programmergate.com/pass-data-servlet-jsp/
